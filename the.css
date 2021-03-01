@@ -1,0 +1,35 @@
+.red {
+	color:red;
+}
+
+.twofour {
+	font-size:24px;
+}
+
+div {
+	height:100px;
+	width:100px;
+	background-color:red;
+}
+
+.divisions div:nth-child(2) p{
+	color:white;
+}
+
+div p:first-child {
+	font-style: italic;
+}
+
+button {
+	margin-top:10px;
+}
+
+button:hover {
+	background-color:blue;
+}
+
+button:active {
+	width:200px;
+	height:150px;
+	border-radius: 0px;
+}
